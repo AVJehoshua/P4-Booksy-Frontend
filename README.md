@@ -31,7 +31,7 @@ Styling: CSS and responsive design principles for a polished and adaptive user e
 Demetrius Vissarion - https://github.com/demetriusvissarion
 Thomas Mazzag - https://github.com/TomMazzag
 Ilhan Abdalle - https://github.com/Illy-hans
-Jehoshua - https://github.com/AVJehoshua
+Jehoshua Lawal - https://github.com/AVJehoshua
 Fawaz Tarar - https://github.com/Fawaztarar
 
 
@@ -43,9 +43,6 @@ https://trello.com/b/qv2hfgk4/ecommerce-final-project
 ## Excalidraw
 
 https://excalidraw.com/#room=a5e0e468c208d0365181,Nr2s0OMVmuSbWFPOP75-5A
-
-Miro
-
 
 
 API Documents
