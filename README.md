@@ -3,6 +3,8 @@
 
 Welcome to Booksy, your go-to online bookstore built using the MERN stack  with user authentication handled by Clerk and payments processed by Stripe.. Booksy offers a vast collection of books across various genres, providing book lovers with an intuitive platform to explore, select, and purchase their favorite reads with ease. Whether you're into fiction, non-fiction, educational materials, or rare finds, Booksy is designed to cater to your reading preferences.
 
+## If you are looking for the Backend Repo, follow this link -> https://github.com/AVJehoshua/P4-Booksy-backend
+
 ## Features
 
 - **Browse and Search**: Navigate through our extensive library or use the search functionality to find specific books with ease.
